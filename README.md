@@ -2,7 +2,7 @@
 # Hello Everyone! I'm [Deeshant Sharma](https://github.com/Deeshant2234) <img src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/Hi.gif" width="25px">
 <br><br>
 <a href="https://www.linkedin.com/in/deeshantsharma/">
-  <img align="left" alt="Deeshant's Linkedin" width="100px" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/linkedin.svg" />
+  <img align="left" alt="Deeshant's Linkedin" width="120px" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/linkedin.svg" />
 </a>
 <a href="https://github.com/Deeshant2234">
   <img align="left" alt="Deeshant Sharma's Github" width="100px" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/github.svg" />
