@@ -14,7 +14,7 @@
 ## <p align="center"><h4 align="center"><samp>A learner by heart and a researcher by passion with an aim to see what everybody else has seen and to think what nobody else has thought</samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/processing.gif" width="40%"/>
+<img align="right" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/processing.gif" width="40%"/>
   <br>
 
 - 👷 <samp>Electrical Engineering | IITH | 8.19/10 CGPA 
