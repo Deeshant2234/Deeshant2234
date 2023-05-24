@@ -48,7 +48,7 @@
 
    <span>
 <a href="https://github.com/Deeshant2234/Communications-and-Signal-Processing">
-  <img align="center" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/B4OU.gif" width="300"/>
+  <img align="center" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/B4OU.gif" width="280"/>
 </a>
   </span>
 <span>
@@ -61,7 +61,7 @@
  
   <span>
 <a href="https://github.com/Deeshant2234/Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB">
-  <img align="center" width="300" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/large.jpg" />
+  <img align="center" width="280" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/large.jpg" />
 </a>
   </span>
   
