@@ -53,7 +53,7 @@
   </span>
 <span>
 <a href="https://github.com/Deeshant2234/Sensing-and-planning-for-autonomous-">
-  <img align="center" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/8e4c3a6b200f1eafa367fc0689f350ab.gif" width="300"  height="300" />
+  <img align="center" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/8e4c3a6b200f1eafa367fc0689f350ab.gif" width="280"  height="300" />
 </a>
   </span>
   
@@ -61,7 +61,7 @@
  
   <span>
 <a href="https://github.com/Deeshant2234/Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB">
-  <img align="center" width="280" height="300" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/large.jpg" />
+  <img align="center" width="280" height="280" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/large.jpg" />
 </a>
   </span>
   
