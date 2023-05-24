@@ -32,13 +32,14 @@
 ![Python](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/python.svg)
 
   
-<span>
-<img src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/arduino_logo.svg" alt="drawing" width="50"/>
-<img src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/raspberrypi_logo.svg" alt="drawing" width="50"/>
-<img src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/c%2B%2B_logo.svg" alt="drawing" width="50"/>
-<img src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/python_logo.svg" alt="drawing" width="50"/>
-<img src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/mysql_logo.svg" alt="drawing" width="50"/>
-<img src="https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/readme_logo.svg" alt="drawing" width="50"/>
+<span> 
+  
+<img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/arduino_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/raspberrypi_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/c%2B%2B_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/python_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/mysql_logo.svg" alt="drawing" width="50"/>
+<img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/readme_logo.svg" alt="drawing" width="50"/>
 </span>
       
 <hr> 
