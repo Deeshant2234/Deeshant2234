@@ -5,7 +5,7 @@
   <img align="left" alt="Deeshant's Linkedin" width="100px" height="30" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/matlab.svg" />
 </a>
 <a href="https://github.com/Deeshant2234">
-  <img align="left" alt="Deeshant Sharma's Github" width="100px" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/github.svg" />
+  <img align="left" alt="Deeshant Sharma's Github" width="100px" height="30" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/github.svg" />
 </a>
 
 <br><br>
