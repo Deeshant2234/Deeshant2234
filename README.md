@@ -2,7 +2,7 @@
 # Hello Everyone! I'm [Deeshant Sharma](https://github.com/Deeshant2234) <img src="https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/Hi.gif" width="25px">
 <br><br>
 <a href="https://www.linkedin.com/in/deeshantsharma/">
-  <img align="left" alt="Deeshant's Linkedin" width="100px"src="https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/matlab.svg" />
+  <img align="left" alt="Deeshant's Linkedin" width="120px" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/matlab.svg" />
 </a>
 <a href="https://github.com/Deeshant2234">
   <img align="left" alt="Deeshant Sharma's Github" width="100px" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/github.svg" />
