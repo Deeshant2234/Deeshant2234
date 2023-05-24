@@ -46,16 +46,18 @@
   
 <h3><b><samp>Check out my Repositories</samp></b></h3>
 
+  <span>
+<a href="https://github.com/Deeshant2234/Sensing-and-planning-for-autonomous-">
+  <img align="center" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/8e4c3a6b200f1eafa367fc0689f350ab.gif" width="280"  height="220" />
+</a>
+  </span>
+  
    <span>
 <a href="https://github.com/Deeshant2234/Communications-and-Signal-Processing">
   <img align="center" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/B4OU.gif" width="280" height="220"/>
 </a>
   </span>
-<span>
-<a href="https://github.com/Deeshant2234/Sensing-and-planning-for-autonomous-">
-  <img align="center" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/8e4c3a6b200f1eafa367fc0689f350ab.gif" width="280"  height="220" />
-</a>
-  </span>
+
   
  
  
