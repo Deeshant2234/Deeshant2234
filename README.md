@@ -61,7 +61,7 @@
  
   <span>
 <a href="https://github.com/Deeshant2234/Introduction-to-Data-Signal-and-Image-Analysis-with-MATLAB">
-  <img align="center" width="280" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/large.jpg" />
+  <img align="center" width="280" height="340" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/large.jpg" />
 </a>
   </span>
   
