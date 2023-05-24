@@ -9,7 +9,7 @@
 </a>
 
 <br><br>
-![](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/poster.png)
+![](https://github.com/Deeshant2234/Deeshant2234/blob/main/poster.png)
 
 ## <p align="center"><h4 align="center"><samp>A learner by heart and a researcher by passion with an aim to see what everybody else has seen and to think what nobody else has thought</samp></h4></p>
 
@@ -24,12 +24,12 @@
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
-![Matlab](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/matlab.svg)
-![C](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/c.svg)
-![C++](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/c%2B%2B.svg)
-![Arduino](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/arduino.svg)
-![Rapspberry Pi](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/raspberrypi.svg)
-![Python](https://github.com/ka-raja-babu/ka-raja-babu/blob/main/Images/python.svg)
+![Matlab](https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/matlab.svg)
+![C](https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/c.svg)
+![C++](https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/c%2B%2B.svg)
+![Arduino](https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/arduino.svg)
+![Rapspberry Pi](https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/raspberrypi.svg)
+![Python](https://github.com/Deeshant2234/Deeshant2234/blob/main/Buttons/python.svg)
 
   
 <span> 
