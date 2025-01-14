@@ -17,7 +17,7 @@
 <img align="right" src="https://github.com/Deeshant2234/Deeshant2234/blob/main/processing.gif" width="35%" height="300"/>
   <br>
 
-- 👷 <samp>Electrical Engineering | IITH | 8.19/10 CGPA 
+- 👷 <samp>Electrical Engineering | IITH | 8.82/10 CGPA 
 - ⚡ <samp>Fun fact: Everything requires some form of coding !!
 </div>
 
